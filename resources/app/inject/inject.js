@@ -1,6 +1,6 @@
 var data_tracking =  {
       platform: "windows",
-      appID:"TaQ7NHTGX0BcV9G9J4nL",
+      appID:"msR4uth8UQuhg4Hzll6u",
       url:"https://www.szchenxi.cf/",
       appname:"晨曦"
     };
